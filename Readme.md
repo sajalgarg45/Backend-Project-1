@@ -14,3 +14,5 @@
 - "type": "module", -> for importing packages
 - npm install -D nodemon -> for avoiding server start and close after updation
 - "dev": "nodemon src/index.js" -> inside scripts in package.json -> to call nodemon when it requires
+- npm install -D prettier -> uses for formatting and avoid any unnecessary git errors
+- create two new files - .prettierignore and .prittierrc -> to see uses read the files
