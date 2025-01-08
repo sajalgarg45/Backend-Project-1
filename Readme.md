@@ -52,4 +52,13 @@
 - installed a package -> npm i mongoose-aggregate-paginate-v2 
 - another package jwt[json web token] and bcrypt 
 - add their functions in the model files
-- tokenisation in .env file
+- tokenisation in .env file -> importing jwt functions via tokens in models
+
+### File uploading 
+- install two packages -> multer and cloudinary
+- created a file in ./utils named cloudinary.js 
+- import packages and also the fs module which comes built in by node
+- add the cloudinary details in .env file and its functions in cloudinary.js 
+
+### Middlewares
+- use of multer here -> create a multer file and then add functions for upload files via middleware
