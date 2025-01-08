@@ -40,9 +40,16 @@
 - cors for ->
 - call these packages in app.js
 
-# Middleware
+### Utils
 - for middlewares setup we create some files in utils folder
 - [ApiError, ApiResponse, asynchandler].js -> three files
 - ApiError -> 
 - ApiResponse -> 
 - asynchandler -> 
+
+### Models
+- user.model.js and video.model.js -> creates model 
+- installed a package -> npm i mongoose-aggregate-paginate-v2 
+- another package jwt[json web token] and bcrypt 
+- add their functions in the model files
+- tokenisation in .env file
