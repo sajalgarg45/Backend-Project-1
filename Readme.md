@@ -62,3 +62,10 @@
 
 ### Middlewares
 - use of multer here -> create a multer file and then add functions for upload files via middleware
+
+### Controllers
+- created a user file for asyncHandler for login purpose
+
+### Routes
+- created a user route file for routing 
+- import registerUser from controller.js and export it to app.js 
