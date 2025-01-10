@@ -75,3 +75,9 @@
 ### Register Controller
 - import other files to user.controller.js and write their function according to our need
 - imported all the files and their functions and write their controller 
+
+### creating the user 
+- now after all these things we cna create the user
+- update the cloudinary details in .env file
+- go to postman with the url fill the details 
+- the user details is pushed to mongodb and the images are pushed to cloudinary 
