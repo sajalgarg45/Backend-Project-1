@@ -69,3 +69,8 @@
 ### Routes
 - created a user route file for routing 
 - import registerUser from controller.js and export it to app.js 
+- all setup is done
+- run the server , mongoDB connected -> use the url in postman to get the output
+
+### Register Controller
+- import other files to user.controller.js and write their function according to our need
