@@ -74,3 +74,4 @@
 
 ### Register Controller
 - import other files to user.controller.js and write their function according to our need
+- imported all the files and their functions and write their controller 
